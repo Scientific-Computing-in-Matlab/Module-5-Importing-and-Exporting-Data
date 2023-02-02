@@ -15,7 +15,7 @@ At the end of this module you will be able to:
 
 ## Materials
  1. The [file I/O module on Coursera](https://www.coursera.org/learn/matlab/home/week/9)
- 1. [Import/Export Handout](../docs/importExport.pdf)
+ 1. [Import/Export Handout](./docs/importExport.pdf)
  1. [A video](https://youtu.be/qnk0KqF4iWY) showing how to *manually* import text data into Matlab. This works well for an occasional file import, but for routine usage you should write your own import function (see assignments).
  1. Now that you have started writing more complex functions and scripts, you will have more reasons to use the Matlab Debugger. [This tutorial](https://www.mathworks.com/videos/debugging-in-matlab-97189.html) gives a nice introduction, and there is another one [here](https://www.youtube.com/watch?embed=no&v=PdNY9n8lV1Y) that may also help you understand work spaces, variable scope, and loops better.
 
