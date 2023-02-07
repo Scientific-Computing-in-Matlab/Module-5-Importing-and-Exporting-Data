@@ -1,6 +1,6 @@
 # Module-5 Importing and Exporting Data
 
-In this module you lean to read data files and write output files in various formats.
+In this module you learn to read data files and write output files in various formats.
 
 ## Objectives
 
